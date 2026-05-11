@@ -46,7 +46,7 @@ A productivity task manager built with **React** and **Tailwind CSS**. Combines 
 ```bash
 # 1. Clone the repo
 git clone https://github.com/KaiPham27/focusflow.git
-cd focusflow-newBranch
+cd focusflow-main
 
 # 2. Install dependencies
 npm install
